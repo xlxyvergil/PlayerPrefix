@@ -1,8 +1,5 @@
-name: PlayerPrefix
-main: com.xlxyvergil.playerprefix.PlayerPrefix
+name: Prefix
+main: com.xlxyvergil.playerprefix.PrefixExpansion
 version: 1.0.0
 author: xlxyvergil
 softdepend: [PlaceholderAPI] #对，就是这样，把这行复制到你的plugin.yml里面。
-commands:
-  Prefix:
-    description: zzzzz

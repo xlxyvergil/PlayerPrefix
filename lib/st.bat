@@ -1,3 +1,1 @@
-@echo OFF
-java -jar spigot-1.12.2.jar
-pause
+java -jar mohist-1.12.2-143-server.jar
